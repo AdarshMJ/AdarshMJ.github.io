@@ -5,7 +5,7 @@
     - Rebekka Burkholz
   year: 2024
   venue: Pre-print
-  url: "https://adarshmj.github.io/assets/publications/SpectralPruningPreprint.pdf"
+  url: https://adarshmj.github.io/assets/publications/SpectralPruningPreprint.pdf
 
 - title: "Graph of Thrones: Adversarial Perturbations dismantle Aristocracy in Graphs."
   authors:
@@ -33,7 +33,7 @@
     - Uma Mudenagudi
   year: 2019
   venue: Computer Vision and Pattern Recognition (<b>CVPR</b> Workshop, Oral)
-  url: https://doi.org/10.1109/CVPRW.2019.00107
+  url: https://openaccess.thecvf.com/content_CVPRW_2019/papers/AAMVEM/Jamadandi_Exemplar-based_Underwater_Image_Enhancement_Augmented_by_Wavelet_Corrected_Transforms_CVPRW_2019_paper.pdf
   abstract: "In this paper we propose a novel deep learning framework to enhance underwater images by augmenting our network with wavelet corrected transformations. Wavelet transforms have recently made way into deep learning frameworks and their ability to reconstruct arbitrary signals accurately makes them favourable for many applications. Underwater images are subjected to unique distortions, this is mainly attributed to the fact that red wavelength light gets absorbed dominantly giving a greenish, blue hue. This wavelength dependent selective absorption of light and also scattering by the suspended particles introduce non-linear distortions that affect the quality of the images. We propose an encoder-decoder module with wavelet pooling and unpooling as one of the network components to perform progressive whitening and coloring transforms to enhance underwater images via realistic style transfer. We give a sound theoretical proof as to why wavelet transforms are better for signal reconstruction. We demonstrate our proposed framework on popular underwater images dataset and evaluate it using metrics like SSIM, PSNR and UCIQE and show that we achieve state-of-the-art results compared to those mentioned in the literature."
 
 - title: "Learning Hierarchical Representations in Kinematic Space."
