@@ -5,7 +5,7 @@ permalink: /other_projects/
 order: 6
 ---
 
-* I sometimes do a reading challenge on [Goodreads](https://www.goodreads.com/user/show/145296740-adarsh). If you want to talk about books and/or ML research feel free to reach out to me :)
+* I sometimes do a reading challenge on [Goodreads](https://www.goodreads.com/user/show/145296740-adarsh). If you want to chat about books, poetry and ML research feel free to reach out!
 
 * From 2019-2020, I worked as a research assistant on the [Underwater 3D Reconstruction](https://cevi.co.in/projects/sponsored/dst-dp) Project.
 
