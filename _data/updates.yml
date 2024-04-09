@@ -1,5 +1,5 @@
 - date: January, 2024
-  content: "New Pre-print Alert! <a href='assets/publications/SpectralPruningPreprint.pdf'>Spectral Pruning Against Over-Squashing and Over-Smoothing</a>. We propose a novel graph modification framework that optimizes spectral gap by pruning edges. We show we can address both over-squashing and over-smoothing in Graph Neural Networks!
+  content: "New Pre-print Alert! <a href='https://arxiv.org/abs/2404.04612'>Spectral Pruning Against Over-Squashing and Over-Smoothing</a>. We propose a novel graph modification framework that optimizes spectral gap by pruning edges. We show we can address both over-squashing and over-smoothing in Graph Neural Networks!
   "
 
 - date: November, 2022
