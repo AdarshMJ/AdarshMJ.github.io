@@ -1,11 +1,11 @@
 - title:  "SoLAR : Surrogate Label Aware Rewiring for Graph-Task Alignment."
   authors:    
-    - Celia Rubio-Madrigal*
-    - Adarsh Jamadandi*
+    - Celia Rubio-Madrigal
+    - Adarsh Jamadandi
     - Rebekka Burkholz
-  year: 2024
+  year: (Equal contributions) 2024
   venue: Pre-print
-  url: assets/publications/SOLAR__Surrogate_Label_Aware_Rewiring_for_Graph_Task_Alignment_in_GNNs.pdf
+  url: https://adarshmj.github.io/assets/publications/SOLAR__Surrogate_Label_Aware_Rewiring_for_Graph_Task_Alignment_in_GNNs.pdf
 
 
 - title:  "Spectral Pruning Against Over-Squashing and Over-Smoothing."
