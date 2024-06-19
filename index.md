@@ -7,7 +7,7 @@ image: /assets/adarsh.jamadandi.jpg
 
 My name is Adarsh Jamadandi. I am a Research Assistant at the [Relational Machine Learning Lab](https://relationalml.github.io) led by Dr. Rebekka Burkholz. My research interests include Graph Representation Learning and Geometric Deep Learning. I maintain a list of my publications under the [Research]({{ site.url }}/research) tab.
 
-I am a last year Masters student in Computer Science at the Saarland University. I completed my Bachelors in Electronics and Communication Engineering with [Dr. Uma Mudenagudi](https://scholar.google.co.in/citations?user=xBaqwmkAAAAJ&hl=en) as my advisor. Check out my [CV](/assets/AdarshCV.pdf) for more details.
+I am a last year Masters student in Computer Science at the Saarland University. Previously, I completed my Bachelors in Electronics and Communication Engineering with [Dr. Uma Mudenagudi](https://scholar.google.co.in/citations?user=xBaqwmkAAAAJ&hl=en) as my advisor.
 
 #### Updates
 
