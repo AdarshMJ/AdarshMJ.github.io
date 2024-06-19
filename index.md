@@ -9,6 +9,8 @@ My name is Adarsh Jamadandi. I am a Research Assistant at the [Relational Machin
 
 I am a last year Masters student in Computer Science at the Saarland University. Previously, I completed my Bachelors in Electronics and Communication Engineering with [Dr. Uma Mudenagudi](https://scholar.google.co.in/citations?user=xBaqwmkAAAAJ&hl=en) as my advisor.
 
+My [CV](https://adarshmj.github.io/assets/AdarshCV.pdf) can be found here.
+
 #### Updates
 
 {% include updates.html %}
