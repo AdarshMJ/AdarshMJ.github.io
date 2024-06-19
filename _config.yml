@@ -15,7 +15,6 @@ url: "https://adarshmj.github.io" # the base hostname & protocol for your site
 github_username:  adarshmj
 twitter_username: adarshjamadandi
 linkedin_username: adarsh-jamadandi
-CV : https://adarshmj.github.io/assets/AdarshCV.pdf
 include: ['_pages']
 
 # Build settings
