@@ -8,13 +8,14 @@
 # Site settings
 title: Adarsh Jamadandi
 full_name: Adarsh Jamadandi
-email: adarsh.jamadandi@cispa.de
+email: adarsh.jam@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://adarshmj.github.io" # the base hostname & protocol for your site
 github_username:  adarshmj
 twitter_username: adarshjamadandi
 linkedin_username: adarsh-jamadandi
+CV : https://adarshmj.github.io/assets/AdarshCV.pdf
 include: ['_pages']
 
 # Build settings
