@@ -1,3 +1,8 @@
+
+- date: May, 2024
+  content: "New Pre-print Alert! <a href='assets/publications/SOLAR__Surrogate_Label_Aware_Rewiring_for_Graph_Task_Alignment_in_GNNs.pdf'>SoLAR : Surrogate Label Aware Graph Rewiring for Graph-Task Alignment.</a>. We explore the Graph-Task alignment and what contributes for the success of GNNs. We also propose a novel label-aware graph rewiring strategy!
+  "
+
 - date: January, 2024
   content: "New Pre-print Alert! <a href='https://arxiv.org/abs/2404.04612'>Spectral Pruning Against Over-Squashing and Over-Smoothing</a>. We propose a novel graph modification framework that optimizes spectral gap by pruning edges. We show we can address both over-squashing and over-smoothing in Graph Neural Networks!
   "
