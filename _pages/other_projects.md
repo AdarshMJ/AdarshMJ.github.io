@@ -5,7 +5,7 @@ permalink: /other_projects/
 order: 6
 ---
 
-* Had a fun time giving a talk at [HAICON'24](https://haicon24.de). [Presented](https://adarshmj.github.io/assets/haiconpresentation.jpeg) our recent work on [How to mitigate both over-squashing and over-smoothing in GNNs?](https://arxiv.org/pdf/2404.04612v1). [Slides](https://docs.google.com/presentation/d/1ePhopveXDyZ2o-P2sdoSHXnofouhgC8D4vu8qGei8mY/edit?usp=sharing) are available here. [Talk](https://eventlab.regasus.de/online/afterRegistrationPeriod) is available here.
+* Had a fun time giving a talk at [HAICON'24](https://haicon24.de). Presented our recent work on [How to mitigate both over-squashing and over-smoothing in GNNs?](https://arxiv.org/pdf/2404.04612v1). [Slides](https://docs.google.com/presentation/d/1ePhopveXDyZ2o-P2sdoSHXnofouhgC8D4vu8qGei8mY/edit?usp=sharing) are available here. [Talk](https://eventlab.regasus.de/online/afterRegistrationPeriod) is available here.
 
 * I sometimes do a reading challenge on [Goodreads](https://www.goodreads.com/user/show/145296740-adarsh). If you want to chat about books, poetry and ML research feel free to reach out!
 
