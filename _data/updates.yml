@@ -1,14 +1,14 @@
 
 - date: May, 2024
-  content: "New Pre-print Alert! <a href='assets/publications/SOLAR__Surrogate_Label_Aware_Rewiring_for_Graph_Task_Alignment_in_GNNs.pdf'>SoLAR : Surrogate Label Aware Rewiring for Graph-Task Alignment</a>. We explore the Graph-Task alignment and what contributes for the success of GNNs. We also propose a novel label-aware graph rewiring strategy!
+  content: "New Pre-print Alert! <a href='assets/publications/SOLAR__Surrogate_Label_Aware_Rewiring_for_Graph_Task_Alignment_in_GNNs.pdf'>SoLAR : Surrogate Label Aware Rewiring for Graph-Task Alignment</a>. Why does spectral rewiring work? How important is the graph-task alignment for downstream tasks? We study these questions in our new work, and propose a novel graph rewiring strategy that finds an optimal computational structure in terms of the graph-task alignment and show how it boosts GNN performance!
   "
 
 - date: January, 2024
-  content: "New Pre-print Alert! <a href='https://arxiv.org/abs/2404.04612'>Spectral Pruning Against Over-Squashing and Over-Smoothing</a>. We propose a novel graph modification framework that optimizes spectral gap by pruning edges. We show we can address both over-squashing and over-smoothing in Graph Neural Networks!
+  content: "New Pre-print Alert! <a href='https://arxiv.org/abs/2404.04612'>Spectral Pruning Against Over-Squashing and Over-Smoothing</a>. We introduce the Braess Paradox for the first time in context of GNNs. We propose a novel graph pruning strategy that can mitigate both over-squashing and over-smoothing and bonus also find graph lottery tickets!
   "
 
-#- date: November, 2022
- # content: "Started as a research assistant at the <a href='https://relationalml.github.io'>Relational Machine Learning Group</a>, CISPA, under Prof. Dr. Rebekka Burkholz. I will be working on improving the generalizability of graph neural networks by trying to tackle problems like over-squashing and over-smoothing."
+- date: November, 2022
+  content: "Started as a research assistant at the <a href='https://relationalml.github.io'>Relational Machine Learning Group</a>, CISPA, under Prof. Dr. Rebekka Burkholz. I will be working on improving the generalizability of graph neural networks by trying to tackle problems like over-squashing and over-smoothing."
   
 #- date: July, 2022
  # content: "Got accepted at <a href='https://www.eeml.eu/previous-editions/eeml2022'>EEML Summer school</a>. Excited to learn about the latest in ML and AI from the best minds in the field!"
