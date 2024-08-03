@@ -1,7 +1,7 @@
 - title:  "SoLAR : Surrogate Label Aware Rewiring for Graph-Task Alignment."
   authors:    
-    - *Celia Rubio-Madrigal
-    - *Adarsh Jamadandi
+    - Celia Rubio-Madrigal*
+    - Adarsh Jamadandi*
     - Rebekka Burkholz
   year: 2024
   venue: Pre-print
@@ -11,8 +11,8 @@
 
 - title:  "Spectral Pruning Against Over-Squashing and Over-Smoothing."
   authors:
-    - *Adarsh Jamadandi
-    - *Celia Rubio-Madrigal
+    - Adarsh Jamadandi*
+    - Celia Rubio-Madrigal*
     - Rebekka Burkholz
     
   year: 2024
