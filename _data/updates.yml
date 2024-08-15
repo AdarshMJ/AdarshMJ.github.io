@@ -4,7 +4,7 @@
   "
 
 - date: January, 2024
-  content: "New Pre-print Alert! <a href='https://arxiv.org/abs/2404.04612'>Spectral Pruning Against Over-Squashing and Over-Smoothing</a>. We introduce the Braess Paradox for the first time in context of GNNs. We propose a novel graph pruning strategy that can mitigate both over-squashing and over-smoothing and bonus also find graph lottery tickets!
+  content: "New Pre-print Alert! <a href='https://arxiv.org/abs/2404.04612'>Spectral Graph Pruning Against Over-Squashing and Over-Smoothing</a>. We introduce the Braess Paradox for the first time in context of GNNs. We propose a novel graph pruning strategy that can mitigate both over-squashing and over-smoothing and bonus also find graph lottery tickets!
   "
 
 - date: November, 2022
