@@ -1,10 +1,8 @@
 
 
 - date: August, 2024
-  content: "My Master's Thesis <a href='assets/Graph-TaskAlignment.pdf'>On the Importance of Graph-Task Alignment for Graph Neural Networks</a>.
+  content: "My master's thesis is now online! <a href='assets/Graph-TaskAlignment.pdf'>On the Importance of Graph-Task Alignment for Graph Neural Networks</a>.
   "
-
-
 
 - date: May, 2024
   content: "New Pre-print Alert! <a href='assets/publications/SOLAR__Surrogate_Label_Aware_Rewiring_for_Graph_Task_Alignment_in_GNNs.pdf'>SoLAR : Surrogate Label Aware Rewiring for Graph-Task Alignment</a>. Given a graph and a chosen downstream task such as node classification, what are the factors that determine if a GNN can solve the task? We propose graph-task alignment as one of the main factors. We also propose a novel graph rewiring strategy that can induce such alignment to improve GNN performance!
