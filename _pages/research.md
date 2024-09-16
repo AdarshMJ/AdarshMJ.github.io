@@ -9,6 +9,7 @@ My research interests broadly encompass geometric deep learning and graph repres
 * Can we design deep learning models that can naturally encode symmetries without explicit guidance? 
 
 * How can we introduce non-Euclidean spaces as geometrical inductive biases for learning efficient representations of the data, especially for graphs?
+
 * I am also interested in finding interesting applications for modeling molecular data and biological networks. I am currently working on improving the generalization ability of GNNs by tackling problems like over-squashing and over-smoothing.
 
 
