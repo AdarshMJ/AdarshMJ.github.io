@@ -7,7 +7,7 @@ image: /assets/profile.jpeg
 
 My name is Adarsh Jamadandi. I have a Master's degree in Computer Science from Saarland University. My research interests include Graph Representation Learning and Geometric Deep Learning. 
 
-I am actively looking for PhD positions in the field of geometric deep learning and graph representation learning. Please feel free to reach out to me if you have any interesting opportunities!
+I am actively looking for PhD positions. Please feel free to reach out to me if you have any interesting opportunities!
 
 
 I finished my master's thesis at the [Relational Machine Learning Lab](https://relationalml.github.io) under the supervision of Dr. Rebekka Burkholz.
