@@ -8,8 +8,8 @@
 - date: August, 2024
   content: "My master's thesis is now online! <a href='assets/Graph-TaskAlignment.pdf'>On the Importance of Graph-Task Alignment for Graph Neural Networks</a>."
   
-- date: November, 2022
-  content: "Started as a research assistant at the <a href='https://relationalml.github.io'>Relational Machine Learning Group</a>, CISPA, under Prof. Dr. Rebekka Burkholz. I will be working on improving the generalizability of graph neural networks by trying to tackle problems like over-squashing and over-smoothing."
+#- date: November, 2022
+ # content: "Started as a research assistant at the <a href='https://relationalml.github.io'>Relational Machine Learning Group</a>, CISPA, under Prof. Dr. Rebekka Burkholz. I will be working on improving the generalizability of graph neural networks by trying to tackle problems like over-squashing and over-smoothing."
   
 #- date: July, 2022
  # content: "Got accepted at <a href='https://www.eeml.eu/previous-editions/eeml2022'>EEML Summer school</a>. Excited to learn about the latest in ML and AI from the best minds in the field!"
