@@ -1,11 +1,11 @@
-- title:  "SoLAR : Surrogate Label Aware Rewiring for Graph-Task Alignment."
+- title:  "GNNs Getting ComFy : Community and Feature Similarity Guided Rewiring."
   authors:    
     - Celia Rubio-Madrigal\*
     - Adarsh Jamadandi\*
     - Rebekka Burkholz
   year: 2024
   venue: Pre-print
-  url: https://adarshmj.github.io/assets/publications/SOLAR__Surrogate_Label_Aware_Rewiring_for_Graph_Task_Alignment_in_GNNs.pdf
+  url: https://github.com/AdarshMJ/adarshmj.github.io/blob/main/assets/GNNs_Getting_ComFy__new__ICLR25__Pre_print_version_.pdf
   note: "*Equal contributions"
 
 
