@@ -5,6 +5,7 @@ permalink: /other_projects/
 order: 6
 ---
 
+
 * From June 12-14, 2024, I was at [Helmholtz AI Conference](https://haicon24.de) at Düsseldorf, where I presented our recent work on [How to mitigate both over-squashing and over-smoothing in GNNs?](https://arxiv.org/pdf/2404.04612v1).
 The slides are available [here](https://adarshmj.github.io/assets/Ver3_Updated_Jamadandi_Adarsh_S-05a.pdf) .
 
@@ -15,5 +16,7 @@ The slides are available [here](https://adarshmj.github.io/assets/Ver3_Updated_J
   
 * In 2019, I had a paper accepted at one of the NeurIPS workshops on [Graph Representation Learning](https://grlearning.github.io/papers/). But getting a visa for Canada was a nightmare. Here is my [interview](https://edition.cnn.com/2019/11/13/tech/ai-conference-african-academics/index.html) with [Hannah Ziady](https://x.com/hannaziady?s=20) on bias and how researchers from third world countries are denied visa for attending the most prestigious conference
 
-* I also dabbled in a startup gig called Silicon14 (Tweak Labs) Inc. which I co-founded (I was the CTO :P) while I was in my second year of undergraduate studies. It dealt with developing novel [hardware augmentations](https://xlr8community.github.io/) for enabling rapid prototyping of embedded systems/IoT projects. We designed a new line of micro-controller development boards. The board won the "Best Practical US-Based Project" in a contest organized by [Hackster.io](https://www.hackster.io/adarshmj/accexlron-a-rapid-prototyping-board-5d86c3). I was featured in local newspapers highlighting my entrepreneurial journey -  [Super30 Startups](https://timesnext.com/samar-am-and-adarsh-jamandani-startup-silicon14/), [Deccan Herald](https://www.deccanherald.com/content/649025/city-youth-bring-tech-solutions.html) .
+* I also dabbled in a startup gig called Silicon14 (Tweak Labs) Inc. which I co-founded (I was the CTO :P) while I was in my second year of undergraduate studies. It dealt with developing novel [hardware augmentations](https://xlr8community.github.io/) for enabling rapid prototyping of embedded systems/IoT projects. We designed a new line of micro-controller development boards that won the "Best Practical US-Based Project" in a contest organized by [Hackster.io](https://www.hackster.io/adarshmj/accexlron-a-rapid-prototyping-board-5d86c3).
+I was featured in local newspapers highlighting my entrepreneurial journey -  [Super30 Startups](https://timesnext.com/samar-am-and-adarsh-jamandani-startup-silicon14/), [Deccan Herald](https://www.deccanherald.com/content/649025/city-youth-bring-tech-solutions.html) .
 
+* I was also disillusioned to think I could start a video analytics company because I had built a cool video summarization algorithm as part of my Research Experience for Undergraduates (REU) course in Bachelor's, called it [Synoptycs] (https://synoptycs.github.io/index.html#header2-f) I was also thinking of calling it bonsAI (you know since its a video summarization engine :P). Pitched it to few investors, but felt the technology was already out there and the entry to barrier was high because its a crowded market.
