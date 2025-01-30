@@ -9,7 +9,6 @@ order: 6
 * I sometimes do a reading challenge on [Goodreads](https://www.goodreads.com/user/show/145296740-adarsh). If you want to chat about books, [poetry](https://smorgasbordgorger.wordpress.com) and ML research feel free to reach out!
 
 * From 2019-2020, I worked as a research assistant on the [Underwater 3D Reconstruction](https://cevi.co.in/projects/sponsored/dst-dp) project.
-
   
 * In 2019, I had a paper accepted at one of the NeurIPS workshops on [Graph Representation Learning](https://grlearning.github.io/papers/). But getting a visa for Canada was a nightmare. Here is my [interview](https://edition.cnn.com/2019/11/13/tech/ai-conference-african-academics/index.html) with [Hannah Ziady](https://x.com/hannaziady?s=20) on bias and how researchers from third world countries are denied visa for attending the most prestigious conference
 
