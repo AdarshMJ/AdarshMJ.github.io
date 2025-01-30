@@ -16,11 +16,9 @@ My research interests broadly encompass graph representation learning and geomet
 * Designing deep neural networks for biomedical applications such as modeling protein structures, chemical molecules, accelerated drug-target interaction prediction etc.
 
 
-### Papers
+### Talks
+* Jan 28, 2025 - Had a funtime talking about our recently accepted NeurIPS paper with neptune.ai. The goal was to explain our research using simpler analogies intended for broader audience. The video of the talk is available [here](https://www.youtube.com/watch?v=O5yfyldy_Vw).
 
-{% for paper in site.data.publications %}
-* [{{ paper.title }}]({{ paper.url }}) <br>
-  {% for author in paper.authors %}{% if author == "Adarsh Jamadandi" %}**{{ author }}**{% else %}{{ author }}{% endif %}{% if forloop.last %}{% else %}, {% endif %}{% endfor %}.
-  {{ paper.venue }}, {{ paper.year }}.
-{% endfor %}
 
+* From June 12-14, 2024, I was at [Helmholtz AI Conference](https://haicon24.de) at Düsseldorf, where I presented our recent work on [How to mitigate both over-squashing and over-smoothing in GNNs?](https://arxiv.org/pdf/2404.04612v1).
+The slides are available [here](https://adarshmj.github.io/assets/Ver3_Updated_Jamadandi_Adarsh_S-05a.pdf) .
