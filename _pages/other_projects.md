@@ -6,9 +6,6 @@ order: 6
 ---
 
 
-* From June 12-14, 2024, I was at [Helmholtz AI Conference](https://haicon24.de) at Düsseldorf, where I presented our recent work on [How to mitigate both over-squashing and over-smoothing in GNNs?](https://arxiv.org/pdf/2404.04612v1).
-The slides are available [here](https://adarshmj.github.io/assets/Ver3_Updated_Jamadandi_Adarsh_S-05a.pdf) .
-
 * I sometimes do a reading challenge on [Goodreads](https://www.goodreads.com/user/show/145296740-adarsh). If you want to chat about books, [poetry](https://smorgasbordgorger.wordpress.com) and ML research feel free to reach out!
 
 * From 2019-2020, I worked as a research assistant on the [Underwater 3D Reconstruction](https://cevi.co.in/projects/sponsored/dst-dp) project.
