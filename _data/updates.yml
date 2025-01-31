@@ -1,6 +1,6 @@
 
 
-- date: October , 2024
+- date: January , 2025
   content: "Now accepted at ICLR 2025! <a href='assets/GNNs_Getting_ComFy__new__ICLR25__Pre_print_version_.pdf'>GNNs Getting ComFy : Community and Feature Similarity Guided Rewiring </a>. Why does graph rewiring via spectral gap maximization work? Should we always maximize the spectral gap? What dictates the success of these methods? Would additional information such as node features and latent community structure help better rewire the graph? These are some of the questions we investigate in this work.
   "
   
